@@ -7,7 +7,7 @@ const Home = () => (
             <h1></h1>
             <h1></h1>
             <h1 className="home-title">Welcome to Our College</h1>
-            <img src="src/clg.jpg" alt="Saveetha Engineering College Logo" width="1000" height="400"></img>
+            <img src="/CollegeWebsite-RD3/clg.jpg" alt="Saveetha Engineering College Logo" width="1000" height="400"></img>
 
             <p className="home-subtitle">Your future starts here. Learn more about our programs and events.</p>
         </div>

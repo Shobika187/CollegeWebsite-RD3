@@ -5,25 +5,26 @@ const eventsList = [
     id: 1,
     event: "Tech Fest 2024",
     description: "A grand event showcasing the latest in technology.",
-    image: "src/techfest.jpeg"
+    image: "/CollegeWebsite-RD3/clg.jpg"
   },
   {
     id: 2,
     event: "Annual Sports Day",
     description: "A day filled with exciting sports activities.",
-    image: "src/sportday.jpeg"
+    image: "/CollegeWebsite-RD3//culturalfest.jpeg"
+   
   },
   {
     id: 3,
     event: "Cultural Fest",
     description: "Celebrating diverse cultures with music and dance.",
-    image: "src/culturalfest.jpeg"
+    image: "/CollegeWebsite-RD3/culturalfest.jpeg"
   },
   {
     id: 4,
     event: "Science Fair",
     description: "Showcasing innovative science projects by students.",
-    image: "src/science.jpeg"
+    image: "/CollegeWebsite-RD3/science.jpeg"
   }
 ];
 
